@@ -54,3 +54,13 @@ model.layers.[0-39].self_attn.o_proj.weight,[5120,8192],BF16
 model.layers.[0-39].self_attn.q_proj.weight,[8192,5120],BF16
 model.layers.[0-39].self_attn.v_proj.weight,[512,5120],BF16
 model.norm.weight,[5120],BF16
+
+---
+
+## License
+
+This project is licensed under the **Waefrebeorn Umbrella License v3.0**.
+See the [LICENSE](LICENSE) file for the full license text.
+
+The Waefrebeorn Umbrella License is a custom source-available license.
+It is not OSI-approved and not FSF-approved.
